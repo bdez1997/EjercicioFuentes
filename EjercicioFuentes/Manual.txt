@@ -1,0 +1,4 @@
+Esto es un manual de usuario para aprender
+a usar el bloc de notas realizado en el módulo
+de desarrollo de interfaces 
+e interfaces 
